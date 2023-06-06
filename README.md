@@ -2,4 +2,5 @@
  Mediation UI
 
 
-![Image description]([https://github.com/luiscastrodev/url](https://github.com/luiscastrodev/ComposeMeditationUI/blob/main/video-to-gif.gif))
+
+![]([[https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/luiscastrodev/url]()]
