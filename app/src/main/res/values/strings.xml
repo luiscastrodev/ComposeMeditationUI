@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">ComposeMeditationUI</string>
+    <string name="app_name">MeuPrimeiroProjetoCompose</string>
+    <string name="title_activity_modifier">ModifierActivity</string>
+    <string name="title_activity_image_card">ImageCardActivity</string>
+    <string name="title_activity_styling_text">StylingTextActivity</string>
+    <string name="title_activity_state_in_compose">StateInComposeActivity</string>
+    <string name="title_activity_text_fields_buttons">TextFieldsButtonsActivity</string>
+    <string name="title_activity_constraint_layout_compose">ConstraintLayoutComposeActivity</string>
+    <string name="title_activity_custom_progress">CustomProgressActivity</string>
 </resources>
