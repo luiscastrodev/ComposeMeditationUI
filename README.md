@@ -3,4 +3,4 @@
 
 
 
-![](https://github.com/luiscastrodev/video-to-gif)
+![](https://raw.githubusercontent.com/luiscastrodev/ComposeMeditationUI/main/video-to-gif.gif)
